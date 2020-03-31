@@ -21,7 +21,7 @@ import javax.swing.JPanel;
 import javax.swing.Timer;
 
 public class Saolei implements ActionListener {
-//hello world888
+//hello world888+666
 	JFrame frame = new JFrame();
 	ImageIcon icon = new ImageIcon("images/banner.png");
 	ImageIcon btnIcon = new ImageIcon("images/guess.png");
